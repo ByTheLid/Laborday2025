@@ -48,7 +48,7 @@ Visit the live application: [GitHub Pages Link]
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/us-travel-restrictions-map.git
+git clone https://github.com/ByTheLid/us-travel-restrictions-map.git
 
 # Navigate to project directory
 cd us-travel-restrictions-map
